@@ -1,0 +1,12 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="945" y="326" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="384" y="186" />
+    <location key="#Notifications.0.0.1366.768" x="275" y="22" />
+    <location key="search.everywhere.popup.0.0.1366.768" x="346" y="49" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1345" height="116" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1345" height="116" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1345" height="116" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1345" height="116" />
+  </component>
+</application>
